@@ -8,6 +8,7 @@ def countTargetPairs(nums, target):
     return count
 
 
+
 nums1 = [-1, 1, 2, 3, 1]
 target1 = 2
 print("Test case 1:" + str(countTargetPairs(nums1, target1)))
